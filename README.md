@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuberanb&label=Profile%20views&color=0e75b6&style=flat" alt="kuberanb" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently Working as **Flutter Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kuberanb?tab=repositories](https://github.com/kuberanb?tab=repositories)
 
-- 💬 Ask me about **Flutter,Dart,Hive,Firebase,Getx**
+- 💬 Ask me about **Flutter,Dart,Hive,Firebase,Getx,Api Integration,Provider etc**
 
 - 📫 How to reach me **kuberanb2000@gmail.com**
 
