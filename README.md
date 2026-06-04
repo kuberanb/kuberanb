@@ -1,23 +1,72 @@
+```md
 <h1 align="center">Hi 👋, I'm Kuberan B</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuberanb&label=Profile%20views&color=0e75b6&style=flat" alt="kuberanb" /> </p>
+<h3 align="center">Senior Software Enginer</h3>
 
-- 🌱 I’m currently Working as **Flutter Developer**
-
-- 👨‍💻 All of my projects are available at [https://github.com/kuberanb?tab=repositories](https://github.com/kuberanb?tab=repositories)
-
-- 💬 Ask me about **Flutter,Dart,Hive,Firebase,Getx,Api Integration,Provider etc**
-
-- 📫 How to reach me **kuberanb2000@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kuberan-b-92379b183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuberan-b-92379b183" height="30" width="40" /></a>
-<a href="https://instagram.com/_kuberan_b_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kuberan_b_" height="30" width="40" /></a>
+<p align="center">
+Building scalable web and mobile applications with modern technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuberanb&" alt="kuberanb" /></p>
+### 👨‍💻 About Me
+
+- 🚀 Full Stack & Flutter Developer with 3+ years of experience
+- 📱 Developed and published mobile applications on Google Play Store and Apple App Store
+- 🌐 Building modern web applications using React.js, Next.js, TypeScript, Node.js, and Express.js
+- 💡 Passionate about creating clean, scalable, and user-friendly products
+- 🎓 MCA Graduate
+
+---
+
+### 🛠️ Tech Stack
+
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+#### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📂 Featured Work
+
+- 📱 Cross-platform mobile applications with Flutter
+- 🌐 Full-stack web applications with React, Next.js, Node.js, and MongoDB
+- 🔗 API integrations, authentication, and real-time features
+- 🚀 Production-ready applications deployed for real users
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/kuberan-b-92379b183" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+</a>
+<a href="mailto:kuberanb2000@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48" />
+</a>
+</p>
+
+- GitHub: https://github.com/kuberanb
+- Email: kuberanb2000@gmail.com
+
+---
+
+💻 Building web and mobile products that solve real-world problems.
+```
